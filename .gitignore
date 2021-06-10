@@ -1,0 +1,8 @@
+# ignore c/c++ object files etc.
+**.o
+**.elf
+
+# ignore Sony PSP object files etc.
+**.PBP
+**.SFO
+**.prx
